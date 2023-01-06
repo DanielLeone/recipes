@@ -1,2 +1,2 @@
 # recipes
-Cooklang recipes for my own use
+Cooklang recipes
